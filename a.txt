@@ -1,0 +1,12 @@
+int-a=10
+for-int b = 1; b <= 10; b++
+print-a
+}
+color-A
+for-int b = 1; b <= 10; b++
+print-a
+}
+color-B
+for-int b = 1; b <= 10; b++
+print-a
+}
